@@ -1,6 +1,8 @@
 
 # winston-transport-slack
 
+[![Build Status](https://travis-ci.org/weflex/winston-transport-slack.svg)](https://travis-ci.org/weflex/winston-transport-slack)
+
 The [winston](https://githubc.com/winstonjs/winston) transport for Slack notifications.
 
 ## Installation
