@@ -1,6 +1,6 @@
 {
   "name": "winston-transport-slack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "winston transport for slack based on slack-notify",
   "main": "index.js",
   "scripts": {
