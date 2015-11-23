@@ -25,6 +25,12 @@ winston.log('error', 'something', metadata);
 winston.log('slack', 'something', metadata);
 ```
 
-## License 
+## Test
+
+```sh
+$ npm test
+```
+
+## License
 
 MIT
